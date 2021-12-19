@@ -3,6 +3,9 @@ Repository of Materials for the UC Berkeley Spring 2021 NE290 course on Nuclear 
 
 The atomic bomb has changed society in fundamental ways. Total war has become unthinkable and apocalyptic, while society has gained a nearly limitless supply of energy (should we choose to exploit it). Please join us twice weekly (Tue & Thurs 3:30-5:00PM) as we trace the history of the nuclear revolution from Medieval tin mines to the ongoing race to nuclear fusion. 
 
+![oppi1](https://github.com/aaronreichmenberliner/NE290-Spring2021-Nuclear-History-Politics-Futures-/blob/main/site/XBD200801-00004.jpg)
+![oppi2](https://github.com/aaronreichmenberliner/NE290-Spring2021-Nuclear-History-Politics-Futures-/blob/main/site/XBD9704-01422.jpg)
+
 
 ## NE290D Course Description:
 
@@ -20,7 +23,7 @@ Jake Hecla, jake_hecla@berkeley.edu
 Peter Hosemann, peterh@berkeley.edu
 
 
-
+![oppi3](https://github.com/aaronreichmenberliner/NE290-Spring2021-Nuclear-History-Politics-Futures-/blob/main/site/XBD9704-01422.jpg)
 
 
 ## Readings
