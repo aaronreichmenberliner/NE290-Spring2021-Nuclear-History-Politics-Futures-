@@ -13,6 +13,8 @@ This course provides an overview of the history of nuclear energy and its intera
 
 This class will focus on the history of key developments in the nuclear field, especially those with exceptional relevance to current affairs. We will begin with 20th-century developments in fundamental physics, the Radium era and the lead-up to the Manhattan project, and its oft-ignored foreign counterparts. We will then explore the early atomic age with a look at how the growing tension with the Soviets led to the arms race that dominated foreign policy for decades. Proceeding chronologically, we will discuss the era of strategic bombers, the development of the nuclear submarine, the space race, and the hydrogen bomb (and controversy surrounding it). While we walk along the timeline of key events, we will be exploring the sociological and humanistic aspects of our field through literature that speaks to the tolls of the nuclear complex, nuclear testing, and the growing disillusionment and terror inspired by nuclear technology. We will also explore the neutron bomb, nuclear winter, and the evolution of modern nuclear arsenals.
 
+A write-up of the NE290 course can be found on arXiv [here](https://arxiv.org/abs/2112.11583).
+
 
 ## Contact Information
 
